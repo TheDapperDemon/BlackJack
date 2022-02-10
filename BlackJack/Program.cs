@@ -7,6 +7,12 @@ namespace BlackJack
     {
         static void Main(string[] args)
         {
+            BlackJackGame game = new BlackJackGame();
+            game.Players = new List<string>() { "Jonah", "Jeff", "Hakon" };
+            game.ListPlayers();
+            Console.ReadLine();
+
+
             Deck deck = new Deck();
             deck = Shuffle(deck, 3);
 

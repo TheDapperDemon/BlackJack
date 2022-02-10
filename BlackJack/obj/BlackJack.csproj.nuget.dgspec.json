@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonah\\source\\repos\\CSharp_Projects\\BlackJack\\BlackJack\\BlackJack.csproj": {}
+    "C:\\Users\\jonah\\source\\repos\\BlackJack_inC#\\BlackJack\\BlackJack\\BlackJack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonah\\source\\repos\\CSharp_Projects\\BlackJack\\BlackJack\\BlackJack.csproj": {
+    "C:\\Users\\jonah\\source\\repos\\BlackJack_inC#\\BlackJack\\BlackJack\\BlackJack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonah\\source\\repos\\CSharp_Projects\\BlackJack\\BlackJack\\BlackJack.csproj",
+        "projectUniqueName": "C:\\Users\\jonah\\source\\repos\\BlackJack_inC#\\BlackJack\\BlackJack\\BlackJack.csproj",
         "projectName": "BlackJack",
-        "projectPath": "C:\\Users\\jonah\\source\\repos\\CSharp_Projects\\BlackJack\\BlackJack\\BlackJack.csproj",
+        "projectPath": "C:\\Users\\jonah\\source\\repos\\BlackJack_inC#\\BlackJack\\BlackJack\\BlackJack.csproj",
         "packagesPath": "C:\\Users\\jonah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonah\\source\\repos\\CSharp_Projects\\BlackJack\\BlackJack\\obj\\",
+        "outputPath": "C:\\Users\\jonah\\source\\repos\\BlackJack_inC#\\BlackJack\\BlackJack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
