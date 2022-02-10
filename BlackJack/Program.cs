@@ -10,6 +10,7 @@ namespace BlackJack
             BlackJackGame game = new BlackJackGame();
             game.Players = new List<string>() { "Jonah", "Jeff", "Hakon" };
             game.ListPlayers();
+            //game.Play();
             Console.ReadLine();
 
 
