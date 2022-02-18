@@ -4,11 +4,14 @@ using System.Text;
 
 namespace BlackJack
 {
-    public class BlackJackGame : Game
+    public class BlackJackGame : Game 
     {
-        public void Play()
+        
+        public override void ListPlayers()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Welcome Black Jack Players");
+            base.ListPlayers();
         }
+       
     }
 }

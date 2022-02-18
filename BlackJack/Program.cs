@@ -3,14 +3,19 @@ using System.Collections.Generic;
 
 namespace BlackJack
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            BlackJackGame game = new BlackJackGame();
-            game.Players = new List<string>() { "Jonah", "Jeff", "Hakon" };
-            game.ListPlayers();
+            //BlackJackGame game = new BlackJackGame();
+            //game.Players = new List<Player>() { "Jonah", "Jeff", "Hakon" };
+            //game.ListPlayers();
             //game.Play();
+            Game game = new BlackJackGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Hakon";
+            game = game + player;
             Console.ReadLine();
 
 
@@ -40,17 +45,7 @@ namespace BlackJack
                 }
                 deck.Cards = TempList;
             }
-           
             return deck;
         }
-
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for (int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
     }
 }
