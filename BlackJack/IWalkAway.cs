@@ -6,6 +6,6 @@ namespace BlackJack
 {
     interface IWalkAway
     {
-        void IWalkAway(Player Hakon);
+        void WalkAway(Player Hakon);
     }
 }

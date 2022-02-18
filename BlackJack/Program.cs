@@ -9,13 +9,14 @@ namespace BlackJack
         {
             //BlackJackGame game = new BlackJackGame();
             //game.Players = new List<Player>() { "Jonah", "Jeff", "Hakon" };
-            //game.ListPlayers();
             //game.Play();
             Game game = new BlackJackGame();
+            game.ListPlayers();
             game.Players = new List<Player>();
             Player player = new Player();
             player.Name = "Hakon";
-            game = game + player;
+            game += player;
+            game -= player;
             Console.ReadLine();
 
 
