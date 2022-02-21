@@ -11,7 +11,7 @@ namespace BlackJack
             //game.Players = new List<Player>() { "Jonah", "Jeff", "Hakon" };
             //game.Play();
             Game game = new BlackJackGame();
-            game.ListPlayers();
+            //game.ListPlayers();
             game.Players = new List<Player>();
             Player player = new Player();
             player.Name = "Hakon";
@@ -19,6 +19,13 @@ namespace BlackJack
             game -= player;
             Console.ReadLine();
 
+            //Player<Card> player = new Player<Card>();
+            //player.Hand = new List<Card>();
+            //Card card = new Card();
+            //card.Suit = Suit.Clubs;
+            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
+            //Console.WriteLine(underlyingValue);
+            //Console.ReadLine();
 
             Deck deck = new Deck();
             deck = Shuffle(deck, 3);
