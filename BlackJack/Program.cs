@@ -5,30 +5,43 @@ namespace BlackJack
 {
     public class Program
     {
+        //BlackJackGame game = new BlackJackGame();
+        //game.Players = new List<Player>() { "Jonah", "Jeff", "Hakon" };
+        //game.Play();
+        //Game game = new BlackJackGame();
+        //game.ListPlayers();
+        //game.Players = new List<Player>();
+        //Player player = new Player();
+        //player.Name = "Hakon";
+        //game += player;
+        //game -= player;
+        //Console.ReadLine();
+
+        //Player<Card> player = new Player<Card>();
+        //player.Hand = new List<Card>();
+        //Card card = new Card();
+        //card.Suit = Suit.Clubs;
+        //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
+        //Console.WriteLine(underlyingValue);
+        //Console.ReadLine();
+
+        //Card card1 = new Card();
+        //Card card2 = new Card();
+        //card1.Face = Face.Eight;
+        //card2.Face = Face.King;
+
+        //deck = Shuffle(deck, 3);
+        //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+        //Console.WriteLine(count);
+
+        //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+        //List<int> numberList = new List<int>() { 1, 2, 3, 565, 478, 87 };
+        //int sum = numberList.Sum();
+        //Console.WriteLine(sum);
         static void Main(string[] args)
         {
-            //BlackJackGame game = new BlackJackGame();
-            //game.Players = new List<Player>() { "Jonah", "Jeff", "Hakon" };
-            //game.Play();
-            Game game = new BlackJackGame();
-            //game.ListPlayers();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Hakon";
-            game += player;
-            game -= player;
-            Console.ReadLine();
-
-            //Player<Card> player = new Player<Card>();
-            //player.Hand = new List<Card>();
-            //Card card = new Card();
-            //card.Suit = Suit.Clubs;
-            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
-            //Console.WriteLine(underlyingValue);
-            //Console.ReadLine();
-
             Deck deck = new Deck();
-            deck = Shuffle(deck, 3);
+
 
             foreach (Card card in deck.Cards)
             {
