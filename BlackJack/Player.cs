@@ -6,6 +6,12 @@ namespace BlackJack
 {
     public class Player
     {
+        public Player (string name, int beginingBalance)
+        {
+            Hand = new List<Card>();
+            Balance = beginingBalance;
+            Name = name;
+        }
         public List<Card> Hand { get; set; }
       
         public int Balance { get; set; }
