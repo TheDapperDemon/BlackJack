@@ -1,0 +1,42 @@
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfoInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfo.cs
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.exe
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.deps.json
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.json
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.dev.json
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\jonah\source\repos\CSharp_Projects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.genruntimeconfig.cache
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.exe
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.deps.json
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.json
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.dev.json
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfoInputs.cache
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfo.cs
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\jonah\source\repos\BlackJack_inC#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.exe
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.deps.json
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.json
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\Admin\Desktop\Student Assignment Downloads\Jonah\BlackJack-main\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.genruntimeconfig.cache
